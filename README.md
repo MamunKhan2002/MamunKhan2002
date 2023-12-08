@@ -1,11 +1,8 @@
 ### Hi there 👋, My name is Mamun Khan
 #### I am a Web Developer
-![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: HTML / CSS/ JS
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning Java Script 
 
 
