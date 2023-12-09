@@ -1,7 +1,7 @@
 ### Hi there 👋, Mamun Khan here :)
 #### I am a Front-end Web Developer
 
-Skills:  HTML / CSS /TAILWIND CSS / BOOTSTRAP / JS/  REACT
+Skills:  HTML / CSS / TAILWIND CSS / BOOTSTRAP / JS /  REACT
 
 - 🔭 I’m currently working on  Font-end Web Development. 
 - 🌱 I’m currently learning Javascript 
