@@ -11,16 +11,15 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a keen e
 ## 🛠️ Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Tailwind css
+- **Frameworks/Libraries:** React, Tailwind CSS
 - **Tools:** Git, MongoDB
 - **Design:** Figma, Adobe XD, Sketch
 - **Other:** Responsive Design, RESTful APIs, GraphQL, SEO, Accessibility (a11y)
 
 ## 📈 GitHub Stats
 
-![Mamun,s GitHub Stats](https://github.com/MamunKhan2002/MamunKhan2002)
+![Mamun,s GitHub Stats](https://github.com/MamunKhan2002)
 
-## 🚀 Projects
 
 ## 📫 Contact Me
 
