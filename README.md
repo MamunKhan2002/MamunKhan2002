@@ -39,19 +39,19 @@
 
 ## 🚀 Projects
 
-### 🌟 [Project One](https://github.com/johndoe/project-one)
+### 🌟 [Project One]()
 A brief description of Project One. This could include the main technologies used, the purpose of the project, and any notable features.
 
 - **Technologies:** React, Redux, Sass
 - **Features:** User authentication, real-time updates, responsive design
 
-### 🔥 [Project Two](https://github.com/johndoe/project-two)
+### 🔥 [Project Two]()
 A brief description of Project Two. Highlight the main objectives and technologies involved.
 
 - **Technologies:** Vue.js, Vuetify, Firebase
 - **Features:** CRUD operations, Firebase authentication, deployment with Netlify
 
-### 💻 [Project Three](https://github.com/johndoe/project-three)
+### 💻 [Project Three]()
 A brief description of Project Three. Mention any challenges you overcame or interesting aspects of the project.
 
 - **Technologies:** Angular, TypeScript, Bootstrap
@@ -64,14 +64,14 @@ A brief description of Project Three. Mention any challenges you overcame or int
 I'm always open to new opportunities and collaborations! Feel free to reach out to me via the following platforms:
 
 - **Email:** john.doe@example.com
-- **LinkedIn:** [John Doe](https://www.linkedin.com/in/johndoe/)
-- **Twitter:** [@johndoe](https://twitter.com/johndoe)
+- **LinkedIn:** [Mamun Khan](https://www.linkedin.com/in/mamun-khan-90563a294/)
+- **Twitter:** [@mamunkhan]()
 
 ---
 
 ## 📄 Resume
 
-For more details about my professional background and experience, you can check out my [resume](https://johndoe.dev/resume).
+For more details about my professional background and experience, you can check out my [resume]().
 
 ---
 
