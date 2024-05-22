@@ -1,4 +1,4 @@
-# 🌟 John Doe - Frontend Developer 🌟
+# 🌟 Mamun Khan - Frontend Developer 🌟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/johndoe)
