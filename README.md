@@ -1,14 +1,14 @@
 # 🌟 Mamun Khan - Frontend Developer 🌟
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johndoe/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/johndoe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=internet-explorer)](https://johndoe.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mamun-khan-90563a294/?trk=opento_sprofile_details)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/MamunKhan2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=internet-explorer)](https://mamunkhan.netlify.app/)
 
 ---
 
 ![Header](https://i.ibb.co/tbDMQTW/Mamun-Khan-3.png)
 
-👋 Welcome to my GitHub profile! I'm a passionate front-end developer with a keen eye for design and a strong commitment to creating intuitive user interfaces. Below, you'll find information about my skills, projects, and how to get in touch with me.
+👋 Welcome to my GitHub profile! I'm a passionate front-end developer with a keen eye for design and a strong commitment to creating intuitive user interfaces. Below, you'll find information about my skills, and projects, and how to get in touch with me.
 
 ---
 
